@@ -1,0 +1,1 @@
+QUE.views.home.load();

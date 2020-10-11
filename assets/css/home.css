@@ -1,0 +1,28 @@
+.home-questions{
+	width:95vw;
+	max-width:1000px;
+	background:rgba(255,255,255,0.1);
+	margin:auto;
+	border:1px solid rgba(255,255,255,0.3);
+	padding:10px;
+}
+
+.home-questions .question{
+	background:#294747;
+	border:1px solid rgba(255,255,255,0.25);
+	margin-top:10px;
+	cursor:pointer;
+}
+
+.home-questions .question:nth-child(1){
+	margin-top:0;
+}
+
+.home-questions .question:hover{	
+	background:#377272;
+}
+
+.home-questions .question .question-name{
+	padding:5px 10px;
+	color:#cfffff;
+}

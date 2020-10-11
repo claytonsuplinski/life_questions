@@ -1,0 +1,283 @@
+[
+	{
+		"question" : "Why am I here?",
+		"answer"   : [
+			[ 0, "To find out why I am here and explain my existence." ],
+				[ 1, "Since I don't know why I am here, I must figure that out first." ],
+				[ 1, "Note : there might not be an answer or it might be impossible for me to find an answer." ],
+				[ 1, "Note : if I do actually find out why, this answer could change." ]
+		],
+		"possibilities" : [
+			{
+				"label" : "There is some reason",
+				"pros"  : [
+					[ 0, "If there is no reason, then it doesn't matter what I do anyway, so I might as well act as if there is a reason." ]
+				],
+				"cons"  : [
+					[ 0, "We don't know what the reason is or would be." ],
+						[ 1, "It could be some sort of test or experiment performed on us?" ]
+				],
+				"notes" : [
+					[ 0, "What is the reason?" ],
+						[ 1, "To figure out why I am here?" ],
+						[ 1, "To accomplish some task?" ],
+							[ 2, "Do good deeds / things throughout my life?" ],
+							[ 2, "Get as much enjoyment out of life as possible?" ],
+								[ 3, "Could, in theory, be measured by endorphins." ],
+								[ 3, "However, with people starting out in different positive / negative living situations, I doubt this would be the case as it would be very unfair.." ],
+							[ 2, "Have a child?" ],
+							[ 2, "To live as long as possible?" ],
+							[ 2, "Something else?" ]
+				]
+			},
+			{
+				"label" : "There is no reason",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Do we keep our memories after we die?",
+		"answer"   : [
+			[ 0, "Probably not." ]
+		],
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "This could be possible if we are in some sort of simulation and all our sensory input is backed-up on some sort of device." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+					[ 0, "There is direct evidence of this with brain injuries / memory-loss medical conditions." ],
+					[ 0, "Would explain why we can't remember anything before birth." ],
+					[ 0, "Psychology also supports this:" ],
+						[ 1, "Our brains are responsible for storing memories. When our brains stop working, our memories are no longer stored / accessible." ]
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "What happens after death?",
+		"possibilities" : [
+			{
+				"label" : "Immediately jumps into the start of the same life again / similar life, with no memory of the past life.",
+				"pros"  : [
+					[ 0, "Fits with the notion of time being infinite (that we would eventually reappear)." ],
+					[ 0, "Fits with why I don't remember anything from before I was born." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Immediately jumps into the start of the same life again / similar life, with memory of the past life.",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "We probably won't retain our memories. Living people with brain injuries can't retain memories." ]
+				]
+			},
+			{
+				"label" : "Nothing.",
+				"pros"  : [
+				],
+				"cons"  : [
+				],
+				"notes" : [
+					[ 0, "I cease to exist and have no awareness of not existing." ],
+						[ 1, "Sorta like being asleep." ]
+				]
+			},
+			{
+				"label" : "We're in a simulation and the simulation ends.",
+				"pros"  : [
+					[ 0, "Lots of parallels with computer programming / simulations." ],
+						[ 1, "Both are made up of entities that can be created, do things, use logic, behave laws of physics and time, and be destroyed." ]
+				],
+				"cons"  : [
+					[ 0, "What happens after / outside the simulation?" ],
+						[ 1, "It could be that we are in an infinite loop and will keep re-appearing in the simulation forever." ],
+						[ 1, "Like entities in a computer program, we may not be designed to be able to know what goes on beyond our universe." ],
+							[ 2, "Whatever is outside of the simulation may obey a different form of logic that is incompatible with ours." ],
+						[ 1, "We may take on the form of a hypothetical user of this simulation." ],
+							[ 2, "Maybe this is a simulation where you leave your memories at the door when entering and pick them up when the simulation ends?" ],
+							[ 2, "Or I can only keep memories as long as I am in the simulation." ]
+				],
+				"notes" : [
+					[ 0, "I cease to exist and have no awareness of not existing." ],
+						[ 1, "Sorta like being asleep." ]
+				]
+			},
+			{
+				"label" : "After-life of some sort.",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "What happens to animals in the after life?" ],
+						[ 1, "They don't have morals / follow a religion." ],
+					[ 0, "What happens to individuals who are incapable of meeting the criteria for getting into a heaven-like after-life?" ],
+						[ 1, "Ex: people with disorders that prevent them from perceiving the world around them, children who die before having to face any moral dilemmas, etc..." ]
+				],
+				"notes" : [
+					[ 0, "Heaven, hell, grouped with others of similar traits, some grouping of individuals." ]
+				]
+			}
+		]
+	},
+	{
+		"question" : "What gives me the first-person view of everything?",
+		"possibilities" : [
+			{
+				"label" : "I'm in the first-person view of a simulation.",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "The particular orientation of neurons / DNA / biological matter / non-physical traits that define me.",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "Paradox : if time is infinite, I would eventually have mulitple views / exist in multiple bodies at the same time." ],
+						[ 1, "Unless there is a non-physical trait that is a prerequesite for my existence and also prevents simultaneous views." ],
+					[ 0, "Creating an identical, second physical copy of me wouldn't allow both copies to magically communicate sensory input to each other." ]
+				]
+			},
+			{
+				"label" : "Other possibilities?",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "What are other people?",
+		"possibilities" : [
+			{
+				"label" : "All real",
+				"pros"  : [
+				],
+				"cons"  : [
+				],
+				"notes" : [
+					[ 0, "Their existence is exactly like mine, we're all in the same experience together." ]
+				]
+			},
+			{
+				"label" : "All fake",
+				"pros"  : [
+				],
+				"cons"  : [
+				],
+				"notes" : [
+					[ 0, "Their existence is not like mine. They are here to influence my experience." ]
+				]
+			},
+			{
+				"label" : "Some real, some fake",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Did an entity / multiple entities create the universe?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "Quick and easy explanation for why we are here." ],
+					[ 0, "There are clear laws/patterns in place regarding our environment, existence." ],
+						[ 1, "Physics, chemistry, biology, math, etc..." ],
+						[ 1, "This is something that probably would've been planned and devised, not randomly constructed." ],
+					[ 0, "Computer programming provides simplistic examples, demonstrating that this could be possible." ],
+						[ 1, "Video games and virtual reality, for example." ]
+				],
+				"cons"  : [
+					[ 0, "Who / what created the creator(s)?" ],
+						[ 1, "This question leads to infinite recursion / paradox." ]
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "What defines my existence?",
+		"answer"   : [
+			[ 0, "Some non-physical trait that allows me to perceive everything from the first-person view." ],
+				[ 1, "In order for me to exist/be alive/have awareness, some condition needed to be met." ],
+					[ 2, "If my body/brain is intact/healthy and some non-physical condition is met that assigns me to this body" ],
+						[ 3, "Then I am alive / aware / able to think." ],
+					[ 2, "Otherwise, I am not alive / aware / able to think." ],
+					[ 2, "Note: if time is infinite, then this condition should happen an infinite number of times." ],
+						[ 3, "Which means that I'll eventually be back in this body again after I die." ],
+						[ 3, "The only exception would be if there is a hardcoded rule in place that only allows this condition to be met a finite number of times." ]
+		]
+	},
+	{
+		"question" : "Is time infinite?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "It is a concept that doesn't seem to stop." ],
+						[ 1, "There is always another unit of time (second/minute/hour) after the current one." ],
+					[ 0, "Measurements of time are represented by the set of all real numbers, which is infinite." ]
+				],
+				"cons"  : [
+					[ 0, "It could be like speed, where the universe has an unofficial speed limit (the speed of light)." ],
+						[ 1, "However, numerically that value could be exceeded and theoretically there could be something yet to be discovered that can exceed that speed limit." ]
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is space infinite?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "Measurements of space are represented by the set of all real numbers, which is infinite." ],
+					[ 0, "Like time, there doesn't seem to be an actual end to space." ],
+						[ 1, "There is always another spatial increment that can be made." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	}
+]
