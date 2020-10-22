@@ -4,8 +4,8 @@
 		"answer"   : [
 			[ 0, "To find out why I am here and explain my existence." ],
 				[ 1, "Since I don't know why I am here, I must figure that out first." ],
-				[ 1, "Note : there might not be an answer or it might be impossible for me to find an answer." ],
-				[ 1, "Note : if I do actually find out why, this answer could change." ]
+					[ 2, "Note : there might not be an answer or it might be impossible for me to find an answer." ],
+					[ 2, "Note : if I do actually find out why, this answer could change." ]
 		],
 		"possibilities" : [
 			{

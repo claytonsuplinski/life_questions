@@ -10,6 +10,12 @@ body{
 	margin:0;
 }
 
+a, a:hover, a:active, a:focus{
+	color:inherit;
+	outline:0 !important;
+	text-decoration:none;
+}
+
 .header{
 	width:100%;
 	background:#000;
