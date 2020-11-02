@@ -24,6 +24,20 @@
 }
 
 .home-questions .question .question-name{
+	display:inline-block;
 	padding:5px 10px;
 	color:#cfffff;
+}
+
+.home-questions .question .question-answer{
+	display:inline-block;
+	background:#2f754b;
+	color:#fff;
+	font-size:12px;
+	font-style:italic;
+	margin-left:50px;
+	margin-top:-22px;
+	padding:2px 10px;
+	border:1px solid rgba(255,255,255,0.3);
+	border-radius:10px;
 }

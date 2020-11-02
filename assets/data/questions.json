@@ -41,14 +41,12 @@
 	},
 	{
 		"question" : "Do we keep our memories after we die?",
-		"answer"   : [
-			[ 0, "Probably not." ]
-		],
 		"possibilities" : [
 			{
 				"label" : "Yes",
 				"pros"  : [
-					[ 0, "This could be possible if we are in some sort of simulation and all our sensory input is backed-up on some sort of device." ]
+					[ 0, "This could be possible if we are in some sort of simulation and all our experiences / memories are backed-up somehow." ],
+						[ 1, "All the experiences throughout my life might be rewatchable after death, like a movie on a DVD." ]
 				],
 				"cons"  : [
 				]
@@ -267,6 +265,34 @@
 					[ 0, "Measurements of space are represented by the set of all real numbers, which is infinite." ],
 					[ 0, "Like time, there doesn't seem to be an actual end to space." ],
 						[ 1, "There is always another spatial increment that can be made." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is everything predetermined?",
+		"answer"   : [
+			[ 0, "Yes." ]
+		],
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "Using science, things in the future can be predicted." ],
+						[ 1, "Ex: calculating trajectories / electrical measurements in physics, determining chemical reactions in chemistry" ],
+					[ 0, "Properties ( position / energy / composition ) of the smallest particles that make up humans ( atoms / cells ) can be calculated." ],
+						[ 1, "Chemistry, quantum mechanics, and biology." ],
+					[ 0, "There are rules in place that govern how everything works ( laws of physics / other scientific rules )." ],
+						[ 1, "These rules allow physical events to be predicted." ]
 				],
 				"cons"  : [
 				]
