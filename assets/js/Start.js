@@ -5,7 +5,7 @@ QUE.start = function( callback ){
 		url      : './assets/data/questions.json',
 		dataType : 'json',
 		success  : function( data ){
-			QUE.data = data.sort(function(a,b){ return ( a.answer ? -1 : 1 ); });
+			QUE.data = data.filter( x => x.answer ).concat( data.filter( x => !x.answer ) );
 			
 			if( callback ) callback();
 		},

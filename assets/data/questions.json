@@ -279,6 +279,27 @@
 		]
 	},
 	{
+		"question" : "Is there an infinite amount of matter in the universe?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+					[ 0, "If there was an infinite amount of matter, the combination of atoms that I am made up of would never be able to occur." ],
+						[ 1, "There would be infinite combinations of matter prior to me being created." ]
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
 		"question" : "Is everything predetermined?",
 		"answer"   : [
 			[ 0, "Yes." ]
@@ -299,6 +320,29 @@
 			},
 			{
 				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "What separates a living thing from a robot / non-living thing?",
+		"possibilities" : [
+			{
+				"label" : "Something",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "Ability to take in sensory input (see, hear, touch, etc...)" ],
+						[ 1, "Robots can do these things with cameras, microphones, touch screens, etc..." ],
+					[ 0, "Ability to think / make decisions based on a set of information" ],
+						[ 1, "Robots can do this with code / logic in software." ]
+				]
+			},
+			{
+				"label" : "Nothing",
 				"pros"  : [
 				],
 				"cons"  : [
