@@ -138,15 +138,37 @@
 	},
 	{
 		"question" : "What gives me the first-person view of everything?",
-		"answer"   : [
-			[ 0, "Some non-physical trait that allows me to perceive everything from the first-person view." ],
-				[ 1, "In order for me to exist/be alive/have awareness, some condition needed to be met." ],
-					[ 2, "If my body/brain is intact/healthy and some non-physical condition is met that assigns me to this body" ],
-						[ 3, "Then I am alive / aware / able to think." ],
-					[ 2, "Otherwise, I am not alive / aware / able to think." ],
-					[ 2, "Note: if time is infinite, then this condition should happen an infinite number of times." ],
-						[ 3, "Which means that I'll eventually be back in this body again after I die." ],
-						[ 3, "The only exception would be if there is a hardcoded rule in place that only allows this condition to be met a finite number of times." ]
+		"possibilities" : [
+			{
+				"label" : "Some physical condition + some non-physical condition",
+				"pros"  : [
+					[ 0, "If all elementary particles that make up the universe are actually identical, then this would have to be the case." ],
+						[ 1, "There would need to be some non-physical condition that is met that assigns me to this body." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Only some physical condition",
+				"pros"  : [
+					[ 0, "If all elementary particles that make up the universe are actually unique, then this would most likely be the case." ],
+						[ 1, "In this case, there would only be one possible configuration to satisfy the physical condition necessary for me to be alive in the first-person view." ],
+							[ 2, "For example, it could be a particular group of neurons that satifies this condition." ]
+				],
+				"cons"  : [
+					[ 0, "Given the number of moving parts in the human body, this seems unlikely." ],
+						[ 1, "No indiviual particle seems important enough to be irreplaceable." ],
+					[ 0, "Even if all elementary particles are unique, there could still be some sort of non-physical condition in place." ]
+				],
+				"notes" : [
+					[ 0, "In order for me to exist/be alive/have awareness, some condition needed to be met." ],
+						[ 1, "If my body/brain is intact/healthy" ],
+							[ 2, "Then I am alive / aware / able to think." ],
+						[ 1, "Otherwise, I am not alive / aware / able to think." ],
+						[ 1, "Note: if time is infinite, then this condition should happen an infinite number of times." ],
+							[ 2, "Which means that I'll eventually be back in this body again after I die." ]
+				]
+			}
 		]
 	},
 	{
@@ -245,6 +267,9 @@
 	},
 	{
 		"question" : "Is time infinite?",
+		"answer"   : [
+			[ 0, "Yes" ]
+		],
 		"possibilities" : [
 			{
 				"label" : "Yes",
@@ -269,6 +294,9 @@
 	},
 	{
 		"question" : "Is space infinite?",
+		"answer"   : [
+			[ 0, "Yes" ]
+		],
 		"possibilities" : [
 			{
 				"label" : "Yes",
@@ -291,6 +319,9 @@
 	},
 	{
 		"question" : "Is there an infinite amount of matter in the universe?",
+		"answer"   : [
+			[ 0, "No" ]
+		],
 		"possibilities" : [
 			{
 				"label" : "Yes",
@@ -349,7 +380,15 @@
 				],
 				"cons"  : [
 					[ 0, "Ability to take in sensory input (see, hear, touch, etc...)" ],
-						[ 1, "Robots can do these things with cameras, microphones, touch sensors, etc..." ],
+						[ 1, "Robots can do these things with various devices:" ],
+							[ 2, "Sight -> video camera" ],
+							[ 2, "Hearing -> microphones" ],
+							[ 2, "Speaking / making sounds -> audio speakers" ],
+							[ 2, "Touch -> touch sensors / screens" ],
+							[ 2, "Taste -> electronic tongues" ],
+							[ 2, "Smell -> olfactometers / electronic noses" ],
+							[ 2, "Ingesting energy -> electrical power" ],
+							[ 2, "Photosynthesis -> solar panels" ],
 					[ 0, "Ability to think / make decisions based on a set of information" ],
 						[ 1, "Robots can do this with code / logic in software." ]
 				]
@@ -357,6 +396,27 @@
 			{
 				"label" : "Nothing",
 				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is it possible to travel backwards in time?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "Theory regarding wormholes could be accurate with regards to allowing someone to go a random point in spacetime." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+					[ 0, "It would open the door to paradoxes involving changing the past." ]
 				],
 				"cons"  : [
 				]
