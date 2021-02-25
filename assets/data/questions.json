@@ -416,7 +416,9 @@
 			{
 				"label" : "No",
 				"pros"  : [
-					[ 0, "It would open the door to paradoxes involving changing the past." ]
+					[ 0, "It would open the door to paradoxes involving changing the past." ],
+					[ 0, "Assuming that time is infinite -- if time travel was possible, then there would be infinitely many examples of time travel." ],
+						[ 1, "Ex: tons of people would have time traveled here and it would've most likely been noticed by now." ]
 				],
 				"cons"  : [
 				]
