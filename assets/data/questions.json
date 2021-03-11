@@ -172,6 +172,29 @@
 		]
 	},
 	{
+		"question" : "Why do I have the first-person view of everything?",
+		"possibilities" : [
+			{
+				"label" : "There is some reason",
+				"pros"  : [
+				],
+				"cons"  : [
+				],
+				"notes" : [
+					[ 0, "Maybe some attribute(s) about myself made me a preferred choice?" ],
+					[ 0, "Maybe something interesting is going to happen to me in the future?" ]
+				]
+			},
+			{
+				"label" : "No reason",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
 		"question" : "What are other people?",
 		"possibilities" : [
 			{
@@ -419,6 +442,25 @@
 					[ 0, "It would open the door to paradoxes involving changing the past." ],
 					[ 0, "Assuming that time is infinite -- if time travel was possible, then there would be infinitely many examples of time travel." ],
 						[ 1, "Ex: tons of people would have time traveled here and it would've most likely been noticed by now." ]
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is time discrete (has a frame rate) or continuous?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
 				],
 				"cons"  : [
 				]
