@@ -24,10 +24,18 @@
 							[ 2, "Do good deeds / things throughout my life?" ],
 							[ 2, "Get as much enjoyment out of life as possible?" ],
 								[ 3, "Could, in theory, be measured by endorphins." ],
-								[ 3, "However, with people starting out in different positive / negative living situations, I doubt this would be the case as it would be very unfair.." ],
+								[ 3, "If I was designed by some sort of creator(s) -- like software -- then this would make sense." ],
+									[ 4, "I have built-in likes/dislikes/biases that make me strive to maximize the things I like and reduce the things I dislike." ],
+									[ 4, "Scripts are designed in the same way when trying to accomplish a goal / resolve a task." ],
+										[ 5, "The script doesn't have any understanding of why it's doing what it's doing. Its built-in biases/commands guide the script as to what it should and shouldn't do." ],
+								[ 3, "However, with people starting out in different positive / negative living situations, I doubt this would be the case as it would be very unfair." ],
+									[ 4, "Although if other people are 'fake', then this concern becomes irrelevant." ],
 							[ 2, "Have a child?" ],
 							[ 2, "To live as long as possible?" ],
-							[ 2, "Something else?" ]
+							[ 2, "Something else?" ],
+						[ 1, "If there is a creator(s), it's possible I'm not supposed to know." ],
+							[ 2, "Otherwise, I might not do what I'm supposed to do or it might make life boring." ],
+							[ 2, "Figuring it out could be a goal in life -- to provide some ambition / anticipation." ]
 				]
 			},
 			{
