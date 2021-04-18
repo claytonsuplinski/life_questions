@@ -474,5 +474,66 @@
 				]
 			}
 		]
+	},
+	{
+		"question" : "Are the events/thoughts/memories/experiences in my life being recorded/collected somehow?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "If there is meaning to life, then this would probably be the case." ],
+						[ 1, "Otherwise, this would all be a waste of time." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+					[ 0, "If there is no meaning to life, then this would probably be the case." ]
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Are there more spatial dimensions than the 3 that I can perceive?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Are there things that influence reality that I cannot sense (with the 5 senses)?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "This might account for some underlying mysteries in physics / paradoxes with how life seems to work." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
 	}
 ]

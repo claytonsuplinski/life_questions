@@ -16,6 +16,10 @@ a, a:hover, a:active, a:focus{
 	text-decoration:none;
 }
 
+#content{
+	padding-bottom:30px;
+}
+
 .header{
 	width:100%;
 	background:#000;
