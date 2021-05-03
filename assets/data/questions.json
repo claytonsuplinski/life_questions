@@ -81,36 +81,10 @@
 		"question" : "What happens after death?",
 		"possibilities" : [
 			{
-				"label" : "Immediately jumps into the start of the same life again / similar life, with no memory of the past life.",
+				"label" : "I'm in a simulation and the simulation ends.",
 				"pros"  : [
-					[ 0, "Fits with the notion of time being infinite (that we would eventually reappear)." ],
-					[ 0, "Fits with why I don't remember anything from before I was born." ]
-				],
-				"cons"  : [
-				]
-			},
-			{
-				"label" : "Immediately jumps into the start of the same life again / similar life, with memory of the past life.",
-				"pros"  : [
-				],
-				"cons"  : [
-					[ 0, "We probably won't retain our memories. Living people with brain injuries can't retain memories." ]
-				]
-			},
-			{
-				"label" : "Nothing.",
-				"pros"  : [
-				],
-				"cons"  : [
-				],
-				"notes" : [
-					[ 0, "I cease to exist and have no awareness of not existing." ],
-						[ 1, "Sorta like being asleep." ]
-				]
-			},
-			{
-				"label" : "We're in a simulation and the simulation ends.",
-				"pros"  : [
+					[ 0, "If there is a reason why I'm here, then this seems like a strong possibility." ],
+						[ 1, "My life could be some sort of way to gather information / provide entertainment for my conciousness / soul that persists independently of my body." ],
 					[ 0, "Lots of parallels with computer programming / simulations." ],
 						[ 1, "Both are made up of entities that can be created, do things, use logic, behave laws of physics and time, and be destroyed." ]
 				],
@@ -129,6 +103,39 @@
 				]
 			},
 			{
+				"label" : "Immediately jumps into the start of the same life again / similar life, with no memory of the past life.",
+				"pros"  : [
+					[ 0, "If there is not a reason why I'm here, then this seems like a strong possibility." ],
+					[ 0, "Fits with the notion of time being infinite (that we would eventually reappear)." ],
+					[ 0, "Fits with why I don't remember anything from before I was born." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Immediately jumps into the start of the same life again / similar life, with memory of the past life.",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "We probably won't retain our memories, so this seems unlikely." ],
+						[ 1, "For example, living people can simply forget memories." ]
+				]
+			},
+			{
+				"label" : "Nothing.",
+				"pros"  : [
+				],
+				"cons"  : [
+					[ 0, "Assuming time is infinite, this wouldn't be the case." ],
+						[ 1, "Some condition is being met that allows me to exist." ],
+							[ 2, "Given infinite time, that condition should happen again (unless my life is hard-coded to occur only once, which seems unlikely)." ]
+				],
+				"notes" : [
+					[ 0, "I cease to exist and have no awareness of not existing." ],
+						[ 1, "Sorta like being asleep." ]
+				]
+			},
+			{
 				"label" : "After-life of some sort.",
 				"pros"  : [
 				],
@@ -136,7 +143,11 @@
 					[ 0, "What happens to animals in the after life?" ],
 						[ 1, "They don't have morals / follow a religion." ],
 					[ 0, "What happens to individuals who are incapable of meeting the criteria for getting into a heaven-like after-life?" ],
-						[ 1, "Ex: people with disorders that prevent them from perceiving the world around them, children who die before having to face any moral dilemmas, etc..." ]
+						[ 1, "Ex: people with disorders that prevent them from perceiving the world around them, children who die before having to face any moral dilemmas, etc..." ],
+					[ 0, "The common depictions of an after-life seem to be based on emotion and convenience, not logic and facts." ],
+						[ 1, "These after-life depictions tend to gather followers because those ideas have been passed down through the generations, people don't necessarily know what'll happen after death, and it aligns with what they hope will happen after death." ],
+						[ 1, "Paradoxes and inconsistencies tend to provide some contradiction to these notions." ],
+							[ 2, "For example, it wouldn't make sense for an all-powerful god who can see the future to create us and then reward / punish us for our actions." ]
 				],
 				"notes" : [
 					[ 0, "Heaven, hell, grouped with others of similar traits, some grouping of individuals." ]
