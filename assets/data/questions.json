@@ -487,6 +487,27 @@
 		]
 	},
 	{
+		"question" : "Is there a minimum particle size for matter (is matter discrete)?",
+		"possibilities" : [
+			{
+				"label" : "Yes",
+				"pros"  : [
+					[ 0, "If life is predetermined and everything is calculable, then this would be the case." ],
+						[ 1, "With an infinite amount of precision/sub-particles, it would be impossible to calculate and predetermine things." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
 		"question" : "Are the events/thoughts/memories/experiences in my life being recorded/collected somehow?",
 		"possibilities" : [
 			{
