@@ -468,6 +468,27 @@
 		]
 	},
 	{
+		"question" : "Is space discrete or continuous?",
+		"possibilities" : [
+			{
+				"label" : "Discrete",
+				"pros"  : [
+					[ 0, "Given that matter is made up of finite quantities (molecules/atoms/particles), it could make sense for space to be discrete on some level." ],
+						[ 1, "Since space is just an area in which matter exists." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Continuous",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
 		"question" : "Is time discrete (has a frame rate) or continuous?",
 		"possibilities" : [
 			{
@@ -561,6 +582,53 @@
 			},
 			{
 				"label" : "No",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is space (position/distance) completely relative or does there exist some sort of absolute reference point in the universe?",
+		"possibilities" : [
+			{
+				"label" : "Completely relative",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Absolute reference point",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			}
+		]
+	},
+	{
+		"question" : "Is time relative, absolute, or some of both (depending on the context)?",
+		"possibilities" : [
+			{
+				"label" : "Relative",
+				"pros"  : [
+					[ 0, "If time is infinite, then this would have to be the case." ],
+						[ 1, "As there would be no start time or reference point in time for the universe." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Absolute",
+				"pros"  : [
+				],
+				"cons"  : [
+				]
+			},
+			{
+				"label" : "Both",
 				"pros"  : [
 				],
 				"cons"  : [
