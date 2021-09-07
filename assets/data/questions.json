@@ -196,6 +196,16 @@
 			{
 				"label" : "There is some reason",
 				"pros"  : [
+					[ 0, "My life seems relatively good compared to other living things." ],
+						[ 1, "Member of species that controls this planet and has significant thinking capacity." ],
+						[ 1, "Born into a part of the world that is relatively well-off (peaceful, financially sound, abundant amenities)." ],
+						[ 1, "Born into a decent financial standing, but not so much so that I didn't have to earn a living or develop a work ethic." ],
+					[ 0, "I feel like I've gotten to witness a lot of interesting events throughout my life so far." ],
+						[ 1, "Real life, TV, movies, books, etc..." ],
+					[ 0, "So far, I feel like there have been a lot of good events in my life." ],
+						[ 1, "There have been some bad too, but nothing catastrophic." ],
+							[ 2, "Even if this were to change though, that wouldn't imply randomness." ],
+							[ 2, "It could just be a mechanism to make my life more interesting / see how I handle new challenges." ]
 				],
 				"cons"  : [
 				],
