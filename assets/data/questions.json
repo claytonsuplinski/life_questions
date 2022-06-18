@@ -41,6 +41,7 @@
 			{
 				"label" : "There is no reason",
 				"pros"  : [
+					[ 0, "Recurisvely being able to ask 'Why?' to just about anything implies that there is no ultimate meaning to my existence." ]
 				],
 				"cons"  : [
 				]
@@ -50,9 +51,10 @@
 	{
 		"question" : "Do we keep our memories after we die?",
 		"answer"   : [
-			[ 0, "No, but it could be possible to re-access them after death." ],
+			[ 0, "No" ],
 				[ 1, "Our memories are stored in our brains. When our brains stop working (when we die), then the memories are gone." ],
-				[ 1, "However, since there seems to be some non-physical trait that defines my existence, it's possible these experiences could be recorded in some way and reviewable after death." ]
+				[ 1, "However, since there seems to be some non-physical trait that defines my existence, it's possible these experiences could be recorded in some way and reviewable after death." ],
+					[ 2, "This makes it possible, though unlikely, that there may be a way to re-access them after death." ]
 		],
 		"possibilities" : [
 			{
@@ -81,6 +83,19 @@
 		"question" : "What happens after death?",
 		"possibilities" : [
 			{
+				"label" : "Immediately jumps into the start of the same life again / similar life, with no memory of the past life.",
+				"pros"  : [
+					[ 0, "If there is not a reason why I'm here, then this seems like a strong possibility." ],
+					[ 0, "Fits with the notion of time being infinite (that we would eventually reappear)." ],
+					[ 0, "Fits with why I don't remember anything from before I was born." ],
+					[ 0, "Fits with the notion of black holes." ],
+						[ 1, "Black holes could be responsible for re-distributing matter for each iteration of a cyclical universe." ],
+							[ 2, "This idea is supported by the Kerr Solution to the EFEs; which shows that black holes can release energy/matter, in addition to absorbing energy/matter." ]
+				],
+				"cons"  : [
+				]
+			},
+			{
 				"label" : "I'm in a simulation and the simulation ends.",
 				"pros"  : [
 					[ 0, "If there is a reason why I'm here, then this seems like a strong possibility." ],
@@ -100,16 +115,6 @@
 				"notes" : [
 					[ 0, "I cease to exist and have no awareness of not existing." ],
 						[ 1, "Sorta like being asleep." ]
-				]
-			},
-			{
-				"label" : "Immediately jumps into the start of the same life again / similar life, with no memory of the past life.",
-				"pros"  : [
-					[ 0, "If there is not a reason why I'm here, then this seems like a strong possibility." ],
-					[ 0, "Fits with the notion of time being infinite (that we would eventually reappear)." ],
-					[ 0, "Fits with why I don't remember anything from before I was born." ]
-				],
-				"cons"  : [
 				]
 			},
 			{
@@ -396,7 +401,7 @@
 	{
 		"question" : "Is everything predetermined?",
 		"answer"   : [
-			[ 0, "Yes." ]
+			[ 0, "Yes" ]
 		],
 		"possibilities" : [
 			{
@@ -620,6 +625,10 @@
 	},
 	{
 		"question" : "Is time relative, absolute, or some of both (depending on the context)?",
+		"answer"   : [
+			[ 0, "Only relative" ],
+				[ 1, "The concept of an absolute time doesn't make sense. If there was some sort of absolute time for the universe, it would still be with respect to something (even if it's a non-physical entity) -- thus making it relative." ]
+		],
 		"possibilities" : [
 			{
 				"label" : "Relative",
@@ -640,6 +649,10 @@
 			{
 				"label" : "Both",
 				"pros"  : [
+					[ 0, "The closest thing to an absolute time that I can think of would be with respect to myself." ],
+						[ 1, "Time in my perspective could be seen as the absolute time, as it is all that I'll experience." ],
+						[ 1, "All other perspectives of time would be relative to mine." ],
+						[ 1, "That being said, the time I experience would still be with respect to my body, which would be relative." ]
 				],
 				"cons"  : [
 				]

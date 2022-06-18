@@ -11,6 +11,8 @@
 	display:block;
 	background:#294747;
 	border:1px solid rgba(255,255,255,0.25);
+	max-width:600px;
+	margin:auto;
 	margin-top:10px;
 	cursor:pointer;
 }
@@ -23,9 +25,17 @@
 	background:#377272;
 }
 
+.home-questions .question hr{
+	width:calc( 100% - 50px );
+	margin:0px auto 5px 10px;
+	border-color:rgba(255,255,255,0.5);
+	border-bottom:0;
+}
+
 .home-questions .question .question-name{
 	display:inline-block;
 	padding:5px 10px;
+	font-size:14px;
 	color:#cfffff;
 }
 
@@ -35,8 +45,8 @@
 	color:#fff;
 	font-size:12px;
 	font-style:italic;
-	margin-left:50px;
-	margin-top:-22px;
+	margin-left:10px;
+	margin-bottom:5px;
 	padding:2px 10px;
 	border:1px solid rgba(255,255,255,0.3);
 	border-radius:10px;
