@@ -90,7 +90,10 @@
 					[ 0, "Fits with why I don't remember anything from before I was born." ],
 					[ 0, "Fits with the notion of black holes." ],
 						[ 1, "Black holes could be responsible for re-distributing matter for each iteration of a cyclical universe." ],
-							[ 2, "This idea is supported by the Kerr Solution to the EFEs; which shows that black holes can release energy/matter, in addition to absorbing energy/matter." ]
+							[ 2, "This idea is supported by the Kerr Solution to the EFEs; which shows that black holes can release energy/matter, in addition to absorbing energy/matter." ],
+					[ 0, "Fits with conservation of matter in physics." ],
+						[ 1, "Matter cannot be created nor destroyed, only re-arranged." ],
+							[ 2, "If there is a finite number of arrangements, then it would be possible for everything to return to a previous state." ]
 				],
 				"cons"  : [
 				]
