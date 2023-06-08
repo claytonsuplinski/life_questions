@@ -532,7 +532,10 @@
 				"label" : "Yes",
 				"pros"  : [
 					[ 0, "If life is predetermined and everything is calculable, then this would be the case." ],
-						[ 1, "With an infinite amount of precision/sub-particles, it would be impossible to calculate and predetermine things." ]
+						[ 1, "With an infinite amount of precision/sub-particles, it would be impossible to calculate and predetermine things." ],
+					[ 0, "Planck's Hypothesis - energy of all oscillators (ex: waves, springs) are restricted to integer multiples" ],
+						[ 1, "E = nhν" ],
+							[ 2, "Calculation of energy for photons." ]
 				],
 				"cons"  : [
 				]
